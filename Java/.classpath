@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/Cucumber Jars/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/Cucumber Jars/cucumber-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/Cucumber Jars/cucumber-java-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/Cucumber Jars/cucumber-junit-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/Cucumber Jars/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/Cucumber Jars/cucumber-reporting-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/Cucumber Jars/gherkin-2.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/Cucumber Jars/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/Cucumber Jars/log4j.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
